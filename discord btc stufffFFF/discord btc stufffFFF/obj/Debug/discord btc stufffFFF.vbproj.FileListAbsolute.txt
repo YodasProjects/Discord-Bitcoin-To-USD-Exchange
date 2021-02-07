@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\bin\Debug\discord btc stufffFFF.exe.config
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\bin\Debug\discord btc stufffFFF.exe
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\bin\Debug\discord btc stufffFFF.pdb
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\bin\Debug\discord btc stufffFFF.xml
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\obj\Debug\discord btc stufffFFF.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\obj\Debug\discord_btc_stufffFFF.Form1.resources
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\obj\Debug\discord_btc_stufffFFF.Resources.resources
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\obj\Debug\discord btc stufffFFF.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\obj\Debug\discord btc stufffFFF.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\obj\Debug\discord btc stufffFFF.exe
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\obj\Debug\discord btc stufffFFF.xml
+C:\Users\Administrator\source\repos\discord btc stufffFFF\discord btc stufffFFF\obj\Debug\discord btc stufffFFF.pdb
